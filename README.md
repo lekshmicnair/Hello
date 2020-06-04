@@ -1,2 +1,3 @@
 # Hello
-Getting used two git
+Getting used to git
+Trying it for the first time!!
